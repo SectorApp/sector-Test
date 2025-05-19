@@ -1,0 +1,40 @@
+{
+  "stories": [
+    {
+      "id": "1",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story1.jpg"
+    },
+    {
+      "id": "2",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story2.jpg"
+    },
+    {
+      "id": "3",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story3.jpg"
+    },
+    {
+      "id": "4",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story4.jpg"
+    },
+    {
+      "id": "5",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story5.jpg"
+    },
+    {
+      "id": "6",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story6.jpg"
+    },
+    {
+      "id": "7",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story7.jpg"
+    },
+    {
+      "id": "8",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story8.jpg"
+    },
+    {
+      "id": "9",
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story9.jpg"
+    }
+  ]
+}
