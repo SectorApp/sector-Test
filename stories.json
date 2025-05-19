@@ -2,39 +2,39 @@
   "stories": [
     {
       "id": "1",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story1.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/1.svg"
     },
     {
       "id": "2",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story2.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/2.svg"
     },
     {
       "id": "3",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story3.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/3.svg"
     },
     {
       "id": "4",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story4.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/4.svg"
     },
     {
       "id": "5",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story5.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/5.svg"
     },
     {
       "id": "6",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story6.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/6.svg"
     },
     {
       "id": "7",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story7.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/7.svg"
     },
     {
       "id": "8",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story8.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/8.svg"
     },
     {
       "id": "9",
-      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/main/assets/stories/story9.jpg"
+      "coverImage": "https://raw.githubusercontent.com/SectorApp/SectorApp/6545af1a85bc53f91ef7b1226709ef1ff4b4ec01/Mobile/9.svg"
     }
   ]
 }
