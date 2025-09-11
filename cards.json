@@ -6,7 +6,7 @@
     "credit": "Sector App",
     "keys": {
       "topic": ["programming", "coding", "apps"],
-      "tools": ["C", "Python", "Java1"],
+      "tools": ["C", "Python1", "Java1"],
       "impact": ["problem-solving", "websites", "software"]
     }
   },
