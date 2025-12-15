@@ -5,7 +5,7 @@
             "title": "Beyond the 60 - Stories That Matter",
             "authorId": "a1",
             "universityId": "u1",
-            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/beyond_60.png",
+            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/beyond_60.pdf",
             "description": "This book takes you from beginner to expert with clear explanations, real examples, and practical code. It covers core concepts in a simple way.",
             "chapters": [
@@ -21,7 +21,7 @@
             "title": "The Art of Coding",
             "authorId": "a1",
             "universityId": "u1",
-            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/art_of_coding.png",
+            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/art_of_coding.pdf",
             "description": "Master the art of coding with this comprehensive guide. Learn best practices, design patterns, and how to write clean, maintainable code.",
             "chapters": [
@@ -37,7 +37,7 @@
             "title": "Flutter for Beginners",
             "authorId": "a2",
             "universityId": "u2",
-            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/flutter_beginners.png",
+            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/flutter_beginners.pdf",
             "description": "A complete guide to building cross-platform mobile applications with Flutter. From your first widget to publishing on the store.",
             "chapters": [
@@ -53,7 +53,7 @@
             "title": "Advanced Dart",
             "authorId": "a2",
             "universityId": "u2",
-            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/advanced_dart.png",
+            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/advanced_dart.pdf",
             "description": "Deep dive into the Dart programming language. Asynchronous programming, streams, isolates, and advanced language features.",
             "chapters": [
@@ -69,7 +69,7 @@
             "title": "Data Science 101",
             "authorId": "a3",
             "universityId": "u1",
-            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/data_science_101.png",
+            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/data_science_101.pdf",
             "description": "Introduction to Data Science. Learn how to analyze data, build models, and visualize results using Python and R.",
             "chapters": [
@@ -86,7 +86,7 @@
             "id": "a1",
             "name": "Revanth ChandraShekar",
             "role": "Asst. Prof",
-            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/revanth.png",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
             "about": "Revanth is a passionate educator and author with over 10 years of experience in computer science and literature.",
             "stats": {
                 "books": "12",
@@ -104,7 +104,7 @@
             "id": "a2",
             "name": "Jane Doe",
             "role": "Senior Developer",
-            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/jane_doe.png",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
             "about": "Jane is a senior developer at a top tech company. She loves sharing her knowledge about mobile development.",
             "stats": {
                 "books": "5",
@@ -122,7 +122,7 @@
             "id": "a3",
             "name": "Dr. Smith",
             "role": "Data Scientist",
-            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/dr_smith.png",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
             "about": "Dr. Smith holds a PhD in Data Science and has published numerous papers on machine learning and AI.",
             "stats": {
                 "books": "8",
@@ -142,7 +142,7 @@
             "id": "u1",
             "name": "Malla Reddy Engineering College (MREC)",
             "location": "Hyderabad, India",
-            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/universities/mrec.png",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
             "about": "MREC is a premier engineering college known for its excellence in technical education and research.",
             "stats": {
                 "books": "50+",
@@ -160,7 +160,7 @@
             "id": "u2",
             "name": "Stanford University",
             "location": "Stanford, CA",
-            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/universities/stanford.png",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
             "about": "Stanford University is a private research university in Stanford, California. It is one of the world's leading teaching and research institutions.",
             "stats": {
                 "books": "100+",
