@@ -1,0 +1,178 @@
+{
+    "books": [
+        {
+            "id": "b1",
+            "title": "Beyond the 60 - Stories That Matter",
+            "authorId": "a1",
+            "universityId": "u1",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/beyond_60.png",
+            "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/beyond_60.pdf",
+            "description": "This book takes you from beginner to expert with clear explanations, real examples, and practical code. It covers core concepts in a simple way.",
+            "chapters": [
+                "Introduction to the 60",
+                "Why Stories Matter",
+                "Crafting a Narrative",
+                "The Art of Brevity",
+                "Conclusion"
+            ]
+        },
+        {
+            "id": "b2",
+            "title": "The Art of Coding",
+            "authorId": "a1",
+            "universityId": "u1",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/art_of_coding.png",
+            "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/art_of_coding.pdf",
+            "description": "Master the art of coding with this comprehensive guide. Learn best practices, design patterns, and how to write clean, maintainable code.",
+            "chapters": [
+                "Clean Code Basics",
+                "Design Patterns 101",
+                "Refactoring Techniques",
+                "Testing Strategies",
+                "Deployment"
+            ]
+        },
+        {
+            "id": "b3",
+            "title": "Flutter for Beginners",
+            "authorId": "a2",
+            "universityId": "u2",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/flutter_beginners.png",
+            "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/flutter_beginners.pdf",
+            "description": "A complete guide to building cross-platform mobile applications with Flutter. From your first widget to publishing on the store.",
+            "chapters": [
+                "Getting Started with Flutter",
+                "Widgets and Layouts",
+                "State Management",
+                "Networking and APIs",
+                "Publishing Your App"
+            ]
+        },
+        {
+            "id": "b4",
+            "title": "Advanced Dart",
+            "authorId": "a2",
+            "universityId": "u2",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/advanced_dart.png",
+            "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/advanced_dart.pdf",
+            "description": "Deep dive into the Dart programming language. Asynchronous programming, streams, isolates, and advanced language features.",
+            "chapters": [
+                "Dart Type System",
+                "Async and Await",
+                "Streams and Generators",
+                "Isolates and Concurrency",
+                "Dart Internals"
+            ]
+        },
+        {
+            "id": "b5",
+            "title": "Data Science 101",
+            "authorId": "a3",
+            "universityId": "u1",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/book_covers/data_science_101.png",
+            "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/data_science_101.pdf",
+            "description": "Introduction to Data Science. Learn how to analyze data, build models, and visualize results using Python and R.",
+            "chapters": [
+                "Introduction to Data",
+                "Statistics Basics",
+                "Machine Learning Overview",
+                "Data Visualization",
+                "Real World Projects"
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "id": "a1",
+            "name": "Revanth ChandraShekar",
+            "role": "Asst. Prof",
+            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/revanth.png",
+            "about": "Revanth is a passionate educator and author with over 10 years of experience in computer science and literature.",
+            "stats": {
+                "books": "12",
+                "followers": "10.2k",
+                "ratings": "4.8",
+                "reviews": "1.2k"
+            },
+            "contact": {
+                "website": "www.revanth.com",
+                "email": "revanth@example.com",
+                "phone": "+91 9876543210"
+            }
+        },
+        {
+            "id": "a2",
+            "name": "Jane Doe",
+            "role": "Senior Developer",
+            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/jane_doe.png",
+            "about": "Jane is a senior developer at a top tech company. She loves sharing her knowledge about mobile development.",
+            "stats": {
+                "books": "5",
+                "followers": "5.4k",
+                "ratings": "4.9",
+                "reviews": "800"
+            },
+            "contact": {
+                "website": "www.janedoe.dev",
+                "email": "jane@example.com",
+                "phone": "+1 123 456 7890"
+            }
+        },
+        {
+            "id": "a3",
+            "name": "Dr. Smith",
+            "role": "Data Scientist",
+            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/authors/dr_smith.png",
+            "about": "Dr. Smith holds a PhD in Data Science and has published numerous papers on machine learning and AI.",
+            "stats": {
+                "books": "8",
+                "followers": "15k",
+                "ratings": "4.7",
+                "reviews": "2k"
+            },
+            "contact": {
+                "website": "www.drsmithdata.com",
+                "email": "smith@example.com",
+                "phone": "+44 20 1234 5678"
+            }
+        }
+    ],
+    "universities": [
+        {
+            "id": "u1",
+            "name": "Malla Reddy Engineering College (MREC)",
+            "location": "Hyderabad, India",
+            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/universities/mrec.png",
+            "about": "MREC is a premier engineering college known for its excellence in technical education and research.",
+            "stats": {
+                "books": "50+",
+                "followers": "25k",
+                "ratings": "4.5",
+                "reviews": "5k"
+            },
+            "contact": {
+                "website": "www.mrec.ac.in",
+                "email": "info@mrec.ac.in",
+                "phone": "+91 40 1234 5678"
+            }
+        },
+        {
+            "id": "u2",
+            "name": "Stanford University",
+            "location": "Stanford, CA",
+            "image": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/universities/stanford.png",
+            "about": "Stanford University is a private research university in Stanford, California. It is one of the world's leading teaching and research institutions.",
+            "stats": {
+                "books": "100+",
+                "followers": "1M",
+                "ratings": "4.9",
+                "reviews": "10k"
+            },
+            "contact": {
+                "website": "www.stanford.edu",
+                "email": "info@stanford.edu",
+                "phone": "+1 650 723 2300"
+            }
+        }
+    ]
+}
