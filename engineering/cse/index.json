@@ -1,9 +1,9 @@
 {
-  "latest": "2025-12-16.json",
+  "latest": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/engineering/cse/2025-12-16.json",
   "files": [
-    "2025-12-16.json",
-    "2025-09-03.json",
-    "2025-09-02.json",
-    "2025-09-01.json"
+    "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/engineering/cse/2025-12-16.json",
+    "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/engineering/cse/2025-09-03.json",
+    "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/engineering/cse/2025-09-02.json",
+    "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/engineering/cse/2025-09-01.json"
   ]
 }
