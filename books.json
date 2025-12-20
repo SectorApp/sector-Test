@@ -158,6 +158,23 @@
         },
         {
             "id": "u2",
+            "name": "Geetanjali Engineering College",
+            "location": "Hyderabad, India",
+            "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
+            "about": "Stanford University is a private research university in Stanford, California. It is one of the world's leading teaching and research institutions.",
+            "stats": {
+                "books": "100+",
+                "followers": "1M",
+                "ratings": "4.9",
+                "reviews": "10k"
+            },
+            "contact": {
+                "website": "www.stanford.edu",
+                "email": "info@stanford.edu",
+                "phone": "+1 650 723 2300"
+            }
+            {
+            "id": "u2",
             "name": "Stanford University",
             "location": "Stanford, CA",
             "image": "https://github.com/SectorApp/sector-Test/blob/main/unnamed%20(1).jpg?raw=true",
