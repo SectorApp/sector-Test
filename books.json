@@ -5,7 +5,7 @@
             "title": "Beyond the 60 - Stories That Matter",
             "authorId": "a1",
             "universityId": "u1",
-            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/Untitled%20design%20(3).png",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/beyond_60.pdf",
             "description": "This book takes you from beginner to expert with clear explanations, real examples, and practical code. It covers core concepts in a simple way.",
             "chapters": [
@@ -21,7 +21,7 @@
             "title": "The Art of Coding",
             "authorId": "a1",
             "universityId": "u1",
-            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/Untitled%20design%20(3).png",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/art_of_coding.pdf",
             "description": "Master the art of coding with this comprehensive guide. Learn best practices, design patterns, and how to write clean, maintainable code.",
             "chapters": [
@@ -37,7 +37,7 @@
             "title": "Flutter for Beginners",
             "authorId": "a2",
             "universityId": "u2",
-            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/Untitled%20design%20(3).png",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/flutter_beginners.pdf",
             "description": "A complete guide to building cross-platform mobile applications with Flutter. From your first widget to publishing on the store.",
             "chapters": [
@@ -53,7 +53,7 @@
             "title": "Advanced Dart",
             "authorId": "a2",
             "universityId": "u2",
-            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/Untitled%20design%20(3).png",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/advanced_dart.pdf",
             "description": "Deep dive into the Dart programming language. Asynchronous programming, streams, isolates, and advanced language features.",
             "chapters": [
@@ -69,7 +69,7 @@
             "title": "Data Science 101",
             "authorId": "a3",
             "universityId": "u1",
-            "coverImage": "https://github.com/SectorApp/sector-Test/blob/main/5.png?raw=true",
+            "coverImage": "https://raw.githubusercontent.com/SectorApp/sector-Test/refs/heads/main/Untitled%20design%20(3).png",
             "pdfUrl": "https://raw.githubusercontent.com/SectorApp/sector-Test/main/pdfs/data_science_101.pdf",
             "description": "Introduction to Data Science. Learn how to analyze data, build models, and visualize results using Python and R.",
             "chapters": [
